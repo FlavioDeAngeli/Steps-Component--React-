@@ -1,0 +1,19 @@
+.Controls {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 5rem 2rem 5rem;
+}
+
+button {
+  background-color: slateblue;
+  color: #fff;
+  border: 1px solid rgb(160, 150, 223);
+  border-radius: 30px;
+  padding: 1rem 2rem 1rem 2rem;
+  font-size: large;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(84, 64, 209);
+}

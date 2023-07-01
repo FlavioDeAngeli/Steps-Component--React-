@@ -1,0 +1,5 @@
+.Numbers {
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem 3rem 1rem 3rem;
+}
